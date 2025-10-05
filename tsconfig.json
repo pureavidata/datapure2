@@ -1,0 +1,11 @@
+{
+  "compilerOptions": {
+    "target": "es2016",
+    "module": "commonjs",
+    "outDir": "./docs/js",
+    "rootDir": "./docs/ts",
+    "strict": true,
+    "esModuleInterop": true
+  },
+  "include": ["docs/ts/**/*"]
+}
